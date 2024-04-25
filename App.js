@@ -1,16 +1,21 @@
-// components/ProjectItem.js
+// App.js
+import './App.css';
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import HomePage from './components/HomePage';
+import Projects from './components/Projects';
 
-function ProjectItem({ project }) {
+function App() {
   return (
-    <div>
-      <h3>{project.title}</h3>
-      <p>{project.description}</p>
-      <img src={project.image} alt={`Screenshot of ${project.title}`} />
-      <a href={project.repo}>GitHub Repo</a>
-      <a href={project.live}>Live Demo</a>
-    </div>
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/projects" element={<Projects />} />
+      </Routes>
+    </Router>
   );
 }
 
-export default ProjectItem;
+export default App;
