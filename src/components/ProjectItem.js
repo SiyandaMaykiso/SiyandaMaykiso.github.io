@@ -1,6 +1,5 @@
 // components/ProjectItem.js
 import React from 'react';
-import './ProjectItem.css';  // Assuming you store item styles in a separate CSS file
 
 function ProjectItem({ project }) {
   return (

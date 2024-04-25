@@ -1,7 +1,6 @@
 // components/Projects.js
 import React from 'react';
 import ProjectItem from './ProjectItem';
-import './Projects.css';  // Assuming you store project styles in a separate CSS file
 
 const projects = [
   { id: 1, title: 'Project One', description: 'Description of Project One', image: 'url_to_image1', repo: 'url_to_repo1', live: 'url_to_live1', date: new Date('2024-01-01') },
