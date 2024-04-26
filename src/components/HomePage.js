@@ -4,7 +4,7 @@ function HomePage() {
   return (
     <div className="home-page">
       <section className="intro-section">
-        <img src="url_to_your_professional_photo.jpg" alt="Professional Portrait" className="profile-photo"/>
+        <img src="https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/HeadshotsSiyanda-9.jpg?raw=true" alt="Professional Portrait" className="profile-photo"/>
         <h1>About Me</h1>
         <p>I am a Full-Stack Web Developer and a seasoned digital marketing professional with an MBA from Hamline University. Skilled in crafting code and compelling content to empower and engage audiences across various platforms.</p>
       </section>
