@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     title: 'Recipe Sharing Platform',
     description: 'The Recipe Sharing Platform is a web application that allows users to share their favorite recipes, complete with ingredients, cooking instructions, and images. Built using React, Node.js, and PostgreSQL.',
-    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/Recipe-Sharing-Platform-RecipeListing%20Page.png', // Replace 'url_to_image3' with the actual path to your project screenshot
+    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/Recipe-Sharing-Platform-RecipeListing%20Page.png?raw=true', // Replace 'url_to_image3' with the actual path to your project screenshot
     repo: 'https://github.com/SiyandaMaykiso/Recipe-Sharing-Platform.git', // Replace with actual GitHub repo URL
     live: 'https://recipe-sharing-platform-sm-8996552549c5.herokuapp.com/', // Replace with actual live project URL
     date: new Date('2024-04-01') // Use the actual date the project was or will be completed
