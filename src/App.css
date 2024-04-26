@@ -44,18 +44,44 @@ h1 {
 
 /* Additional styles in App.css */
 .home-page {
-  padding: 20px;
+  padding: 40px 20px;  /* Increased padding for better spacing */
   text-align: center;
+  max-width: 960px;  /* Constrain the width for readability */
+  margin: 0 auto;  /* Center the content */
+}
+
+.intro-section, .detailed-background, .achievements {
+  margin-bottom: 30px;  /* More space between sections */
+}
+
+.profile-photo {
+  width: 150px;  /* Suitable size for professional portraits */
+  height: 150px;  /* Keep the height the same as width for a perfect circle */
+  border-radius: 50%;  /* Circular photo */
+  object-fit: cover;  /* Ensures the image covers the space without distortion */
+  border: 3px solid #fff;  /* Optional: white border around the photo */
+  box-shadow: 0px 4px 6px rgba(0,0,0,0.1);  /* Soft shadow for depth */
+  margin-bottom: 20px;  /* Space below the photo */
+}
+
+h1, h2 {
+  color: #2c3e50;  /* Uniform color for headers for consistency */
 }
 
 .home-page h1 {
-  margin-bottom: 20px;
+  font-size: 2em;  /* Larger font size for main heading */
+  margin-bottom: 0.5em;  /* Space below the heading */
+}
+
+.home-page h2 {
+  font-size: 1.75em;  /* Slightly smaller for secondary headings */
 }
 
 .home-page p {
-  font-size: 16px;
-  color: #666;
-  line-height: 1.6;
+  font-size: 16px;  /* Maintain readability with a medium font size */
+  color: #666;  /* Soft color reduces strain */
+  line-height: 1.8;  /* Increased line-height for better text flow */
+  text-align: left;  /* Align text to left for natural reading */
 }
 
 /* More styles in App.css */
@@ -103,18 +129,23 @@ h1 {
 }
 
 @media (max-width: 768px) {
-  .project-item {
-    width: calc(50% - 20px); /* Two items per row on smaller screens */
+  .home-page {
+    padding: 20px;  /* Less padding on smaller screens */
+  }
+
+  .profile-photo {
+    width: 120px;  /* Smaller photo on smaller screens */
+    height: 120px;
   }
 }
 
 @media (max-width: 480px) {
-  .project-item {
-    width: 100%; /* Full width items on very small screens */
+  .home-page {
+    padding: 10px;  /* Minimal padding on very small screens */
   }
 
-  nav ul li {
-    margin: 0 10px; /* Less margin on small screens */
+  .profile-photo {
+    width: 100px;  /* Even smaller photo for very small screens */
+    height: 100px;
   }
 }
-
