@@ -4,8 +4,11 @@ function HomePage() {
   return (
     <div className="home-page">
       <section className="intro-section">
-        <img src="https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/HeadshotsSiyanda-9.jpg?raw=true" alt="Professional Portrait" className="profile-photo"/>
-        <h1>About Me</h1>
+        <img src="https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/HeadshotsSiyanda-9.jpg?raw=true" 
+             alt="Siyanda Maykiso" 
+             className="profile-photo"/>
+        <h1>Siyanda Maykiso</h1>
+        <p className="title">Full-Stack Web Developer & Digital Marketing Professional</p>
         <p>I am a Full-Stack Web Developer and a seasoned digital marketing professional with an MBA from Hamline University. Skilled in crafting code and compelling content to empower and engage audiences across various platforms.</p>
       </section>
       <section className="detailed-background">

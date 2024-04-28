@@ -38,6 +38,12 @@ nav ul li a:hover, nav ul li a:focus {
   text-decoration: none;
 }
 
+nav ul li a:focus {
+  outline: none; /* Removes default outline */
+  background-color: #f39c12; /* Adds a distinct background color on focus */
+}
+
+
 h1 {
   color: #333;
 }
