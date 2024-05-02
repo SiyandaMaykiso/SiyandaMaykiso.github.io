@@ -35,13 +35,24 @@ const projects = [
  
   {
     id: 4, 
-    title: 'Project Four', 
+    title: 'What is Cooking Project', 
+    description: 'This frontend application that gives you recipes based on the ingredients you have on hand, and helps you find grocery stores nearby.', 
+    image: 'url_to_image2', 
+    repo: 'https://github.com/SiyandaMaykiso/What-s-Cooking-Project.git', 
+    live: 'https://siyandamaykiso.github.io/What-s-Cooking-Project/', 
+    date: new Date('2024-01-01') 
+  },
+
+  {
+    id: 5, 
+    title: 'Project Five', 
     description: 'Description of Project Two', 
     image: 'url_to_image2', 
     repo: 'url_to_repo2', 
     live: 'url_to_live2', 
     date: new Date('2024-01-01') 
   }
+
 ];
 
 function Projects() {
