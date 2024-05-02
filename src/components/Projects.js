@@ -25,11 +25,11 @@ const projects = [
 
   { 
     id: 3, 
-    title: 'Project Three',
-    description: 'Description of Project One', 
+    title: 'Personal Blog Platform',
+    description: 'The Personal Blog Platform is a dynamic web application designed for writers, bloggers, and creators who wish to publish, manage, and share their writings. This platform offers a sleek user interface for an engaging writing and reading experience. Built using React, Node.js and PostgreSQL.', 
     image: 'url_to_image1', 
-    repo: 'url_to_repo1', 
-    live: 'url_to_live1', 
+    repo: 'https://github.com/SiyandaMaykiso/Personal-Blog-Platform.git', 
+    live: 'https://personal-blog-platform-a11db04dd963.herokuapp.com/', 
     date: new Date('2024-02-01') 
   },
  
