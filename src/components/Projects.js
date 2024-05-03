@@ -61,6 +61,26 @@ const projects = [
     repo: 'https://github.com/SiyandaMaykiso/Day-Planner.git', 
     live: 'https://siyandamaykiso.github.io/Day-Planner/', 
     date: new Date('2023-11-01') 
+  },
+
+  {
+    id: 7, 
+    title: 'Password Generator', 
+    description: 'This frontend password generator contains, HTML, Javascript code and CSS styling. This app will run sucessfully on different browsers and store secure information. It contains a clear and polished user interface that is responsive.', 
+    image: '', 
+    repo: 'https://github.com/SiyandaMaykiso/Password-Generator.git', 
+    live: 'https://siyandamaykiso.github.io/Password-Generator/', 
+    date: new Date('2023-10-01') 
+  },
+
+  {
+    id: 8, 
+    title: 'Movie Guide', 
+    description: 'This is a frontend workday calendar application that allows the user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML, CSS, jQuery and Moment.js.', 
+    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/Workday%20Scheduler%20Screenshot.png?raw=true', 
+    repo: 'https://github.com/SiyandaMaykiso/Day-Planner.git', 
+    live: 'https://siyandamaykiso.github.io/Day-Planner/', 
+    date: new Date('2023-09-01') 
   }
 
 ];
