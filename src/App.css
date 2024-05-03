@@ -56,8 +56,8 @@ h1 {
 }
 
 .profile-photo {
-  width: 150px;  /* Suitable size for professional portraits */
-  height: 150px;  /* Keep the height the same as width for a perfect circle */
+  width: 200px;  /* Suitable size for professional portraits */
+  height: 200px;  /* Keep the height the same as width for a perfect circle */
   border-radius: 50%;  /* Circular photo */
   object-fit: cover;  /* Ensures the image covers the space without distortion */
   border: 3px solid #fff;  /* Optional: white border around the photo */
