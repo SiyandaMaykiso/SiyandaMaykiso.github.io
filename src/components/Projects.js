@@ -51,6 +51,16 @@ const projects = [
     repo: 'https://github.com/SiyandaMaykiso/JavaScript-Weather-App.git', 
     live: 'https://siyandamaykiso.github.io/JavaScript-Weather-App/', 
     date: new Date('2023-12-01') 
+  },
+
+  {
+    id: 6, 
+    title: 'Workday Scheduler', 
+    description: 'This is a frontend workday calendar application that allows the user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML, CSS, jQuery and Moment.js.', 
+    image: '', 
+    repo: 'https://github.com/SiyandaMaykiso/Day-Planner.git', 
+    live: 'https://siyandamaykiso.github.io/Day-Planner/', 
+    date: new Date('2023-12-01') 
   }
 
 ];
