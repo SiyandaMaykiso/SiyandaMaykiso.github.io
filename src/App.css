@@ -1,5 +1,3 @@
-/* App.css */
-/* At the top of your CSS file */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body, html {
@@ -9,9 +7,9 @@ body, html {
 }
 
 nav {
-  background-color: #2c3e50; /* Darker shade for more elegance */
+  background-color: #2c3e50;
   color: white;
-  padding: 15px 20px; /* More vertical padding for better touch area */
+  padding: 15px 20px;
   text-align: center;
 }
 
@@ -23,18 +21,18 @@ nav ul {
 }
 
 nav ul li {
-  margin: 0 15px; /* Uniform spacing */
+  margin: 0 15px;
 }
 
 nav ul li a {
   text-decoration: none;
   color: white;
   font-size: 18px;
-  transition: color 0.3s; /* Smooth transition for hover effects */
+  transition: color 0.3s;
 }
 
 nav ul li a:hover, nav ul li a:focus {
-  color: #f39c12; /* Bright color for hover and focus */
+  color: #f39c12;
   text-decoration: none;
 }
 
@@ -43,127 +41,127 @@ h1 {
   color: #333;
 }
 
-/* Additional styles in App.css */
+
 .home-page {
-  padding: 40px 20px;  /* Increased padding for better spacing */
+  padding: 40px 20px;
   text-align: center;
-  max-width: 960px;  /* Constrain the width for readability */
-  margin: 0 auto;  /* Center the content */
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .intro-section, .detailed-background, .achievements {
-  margin-bottom: 30px;  /* More space between sections */
+  margin-bottom: 30px;
 }
 
 .profile-photo {
-  width: 200px;  /* Suitable width for professional portraits */
-  height: 200px;  /* Maintain the height for a square aspect */
-  border-radius: 25%;  /* Rectangular, no rounded corners */
-  object-fit: cover;  /* Image covers the full area of the container */
-  object-position: center top;  /* Adjusts the position of the image within its frame */
-  border: 3px solid #fff;  /* White border around the photo */
-  box-shadow: 0px 4px 6px rgba(0,0,0,0.1);  /* Soft shadow for depth */
-  margin-bottom: 20px;  /* Space below the photo */
+  width: 200px; 
+  height: 200px; 
+  border-radius: 25%; 
+  object-fit: cover;
+  object-position: center top;
+  border: 3px solid #fff; 
+  box-shadow: 0px 4px 6px rgba(0,0,0,0.1); 
+  margin-bottom: 20px; 
 }
 
 
 h1, h2 {
-  color: #2c3e50;  /* Uniform color for headers for consistency */
+  color: #2c3e50; 
 }
 
 .home-page h1 {
-  font-size: 2em;  /* Larger font size for main heading */
-  margin-bottom: 0.5em;  /* Space below the heading */
+  font-size: 2em; 
+  margin-bottom: 0.5em; 
 }
 
 .home-page h2 {
-  font-size: 1.75em;  /* Slightly smaller for secondary headings */
+  font-size: 1.75em; 
 }
 
 .home-page p {
-  font-size: 16px;  /* Maintain readability with a medium font size */
-  color: #666;  /* Soft color reduces strain */
-  line-height: 1.8;  /* Increased line-height for better text flow */
-  text-align: left;  /* Align text to left for natural reading */
+  font-size: 16px; 
+  color: #666; 
+  line-height: 1.8; 
+  text-align: left; 
 }
 
-/* More styles in App.css */
+
 .projects {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around; /* Improved spacing */
+  justify-content: space-around;
   padding: 20px;
-  gap: 20px; /* Provides space between items without margin hacks */
+  gap: 20px; 
 }
 
 .project-item {
-  border: 1px solid #bdc3c7; /* Softer border color */
-  border-radius: 8px; /* Rounded corners */
+  border: 1px solid #bdc3c7;
+  border-radius: 8px;
   margin: 10px;
-  padding: 20px; /* More internal spacing */
-  width: calc(33% - 20px); /* Three items per row with gap */
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Subtler shadow */
-  transition: transform 0.3s, box-shadow 0.3s; /* Smooth transformations */
+  padding: 20px; 
+  width: calc(33% - 20px); 
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
+  transition: transform 0.3s, box-shadow 0.3s; 
 }
 
 .project-item:hover {
-  transform: translateY(-5px); /* Slight lift effect */
-  box-shadow: 0 10px 20px rgba(0,0,0,0.1); /* Enhanced shadow on hover */
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1); 
 }
 
 .project-item h3 {
-  color: #34495e; /* Darker color for better readability */
+  color: #34495e;
 }
 
 .project-item p {
-  color: #7f8c8d; /* Softer color for less contrast */
+  color: #7f8c8d; 
 }
 
 .project-item img {
   width: 100%;
   height: auto;
-  border-radius: 4px; /* Rounded corners for images */
+  border-radius: 4px; 
 }
 
 .project-item a {
-  color: #3498db; /* More vibrant link color */
+  color: #3498db;
   text-decoration: none;
-  font-weight: bold; /* Makes links bolder */
+  font-weight: bold; 
 }
 
 @media (max-width: 768px) {
   .home-page {
-    padding: 20px;  /* Less padding on smaller screens */
+    padding: 20px; 
   }
 
   .profile-photo {
-    width: 120px;  /* Smaller photo on smaller screens */
+    width: 120px; 
     height: 120px;
   }
 }
 
 .project-links {
-  margin-top: 10px; /* Adds space above the link area */
-  text-align: center; /* Centers the links if desired */
+  margin-top: 10px;
+  text-align: center;
 }
 
 .repo-link, .live-link {
-  margin-right: 10px; /* Adds space to the right of the GitHub Repo link */
-  margin-left: 10px; /* Adds space to the left of the Live Demo link */
+  margin-right: 10px; 
+  margin-left: 10px;
 }
 
 .link-spacer {
-  margin: 0 5px; /* Adds horizontal space around the separator */
+  margin: 0 5px;
 }
 
 
 @media (max-width: 480px) {
   .home-page {
-    padding: 10px;  /* Minimal padding on very small screens */
+    padding: 10px;
   }
 
   .profile-photo {
-    width: 100px;  /* Even smaller photo for very small screens */
+    width: 100px; 
     height: 100px;
   }
 }
