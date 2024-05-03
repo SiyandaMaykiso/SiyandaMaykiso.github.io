@@ -60,7 +60,7 @@ const projects = [
     image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/Workday%20Scheduler%20Screenshot.png?raw=true', 
     repo: 'https://github.com/SiyandaMaykiso/Day-Planner.git', 
     live: 'https://siyandamaykiso.github.io/Day-Planner/', 
-    date: new Date('2023-12-01') 
+    date: new Date('2023-11-01') 
   }
 
 ];
