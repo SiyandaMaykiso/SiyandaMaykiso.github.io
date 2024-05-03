@@ -45,12 +45,12 @@ const projects = [
 
   {
     id: 5, 
-    title: 'Project Five', 
-    description: 'Description of Project Two', 
+    title: 'JavaScript WeatherApp', 
+    description: 'This is a frontend practical weather app made with JavaScript that tells you the weather in your current location. Made with HTML, CSS, and JavaSript. This application uses the OpenWeather API.', 
     image: 'url_to_image2', 
-    repo: 'url_to_repo2', 
-    live: 'url_to_live2', 
-    date: new Date('2024-01-01') 
+    repo: 'https://github.com/SiyandaMaykiso/JavaScript-Weather-App.git', 
+    live: 'https://siyandamaykiso.github.io/JavaScript-Weather-App/', 
+    date: new Date('2023-12-01') 
   }
 
 ];
