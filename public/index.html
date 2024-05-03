@@ -14,18 +14,18 @@
     <title>React App</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script>
-      // Check for any redirects that may have occurred on 404 and set the URL appropriately
+    
       if (sessionStorage.redirect) {
         const path = document.createElement('a');
         path.href = sessionStorage.redirect;
         history.replaceState(null, '', path.pathname + path.search);
-        sessionStorage.removeItem('redirect'); // Clear the session storage
+        sessionStorage.removeItem('redirect');
       }
     </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
-    <!-- Scripts added by CRA are appended here during build -->
+   
   </body>
 </html>
