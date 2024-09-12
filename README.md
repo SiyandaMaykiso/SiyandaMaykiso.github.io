@@ -20,4 +20,4 @@ This portfolio is designed to present a comprehensive view of my technical capab
 This portfolio includes:
 
 - Project showcases with titles, descriptions, screenshots, GitHub repository links, and live deployment links.
-- Personal information section where you can learn more about my background and experiences.
+- Personal information section where you can learn more about my background and experiences. 
