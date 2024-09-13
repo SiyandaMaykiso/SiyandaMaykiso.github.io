@@ -9,7 +9,7 @@ const projects = [
     image: 'https://github.com/SiyandaMaykiso/AI-Powered-Chatbot/blob/main/screenshots/Chat_Window_Screenshot.png?raw=true',
     repo: 'https://github.com/SiyandaMaykiso/AI-Powered-Chatbot.git',
     live: 'https://ai-powered-chatbot-c163b8863896.herokuapp.com/',
-    date: new Date('2024-05-01')
+    date: new Date('2024-06-01')
 },
   
   { 
