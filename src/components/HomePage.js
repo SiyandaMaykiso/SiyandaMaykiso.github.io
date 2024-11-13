@@ -5,21 +5,46 @@ function HomePage() {
     <div className="home-page">
       <section className="intro-section">
         <img src="https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/HeadshotsSiyanda-9.jpg?raw=true" 
-             alt="Siyanda Maykiso" 
+             alt="Siyanda Burnham" 
              className="profile-photo"/>
         <h1>Siyanda Burnham</h1>
         <p className="title">Full-Stack Web Developer & Digital Marketing Professional</p>
-        <p>I am a Full-Stack Web Developer and a seasoned digital marketing professional with an MBA from Hamline University. Skilled in crafting code and compelling content to empower and engage audiences across various platforms.</p>
+        <p>
+          Full stack web developer with a comprehensive background in developing scalable web applications, 
+          AI-driven solutions, SEO, and digital marketing strategies. Skilled in integrating AI technologies 
+          such as natural language processing (NLP) and image generation models to create intelligent, user-friendly applications.
+        </p>
       </section>
-      <section className="detailed-background">
+      
+      <section className="skills-section">
+        <h2>Technical Skills</h2>
+        <p>
+          Proficient in JavaScript frameworks, database management, server-side logic, and responsive design principles. 
+          Core technologies include HTML, CSS, JavaScript, Node.js, React, and PostgreSQL. Committed to leveraging AI 
+          capabilities to enhance accessibility and user experience across platforms.
+        </p>
+      </section>
+
+      <section className="professional-background">
         <h2>Professional Background</h2>
-        <p>Experienced in web technologies like HTML, CSS, JavaScript, Node.js, React, and PostgreSQL. I specialize in web performance analysis, optimization, and content marketing, driving increases in website traffic and lead generation.</p>
-        <p>My journey has included significant roles in paid media, email marketing, public relations, social media, and search engine optimization (SEO). I am proficient in analyzing metrics to refine campaigns and provide actionable insights to stakeholders.</p>
-        <p>My collaborative approach enables me to work effectively with cross-functional teams and external partners, fostering innovation and achieving remarkable results. I stay at the forefront of industry trends, continually expanding my knowledge to bring cutting-edge strategies to every role.</p>
+        <p>
+          Extensive experience in SEO, paid media, email marketing, public relations, social media, and content marketing. 
+          Skilled in executing effective SEO strategies to improve organic search rankings and increase visibility, 
+          while driving lead generation through performance analysis and optimization.
+        </p>
+        <p>
+          My collaborative approach enables me to work seamlessly with cross-functional teams and external partners, 
+          fostering innovation and achieving remarkable results.
+        </p>
       </section>
+      
       <section className="achievements">
         <h2>Impact and Achievements</h2>
-        <p>Throughout my career, I have consistently demonstrated a commitment to delivering tangible, measurable outcomes and driving growth for organizations. My passion for marketing and dedication to excellence make me an asset in any digital marketing environment.</p>
+        <p>
+          Throughout my career, I have consistently demonstrated a commitment to delivering tangible, measurable outcomes 
+          that drive growth for organizations. My dedication to excellence and passion for digital innovation make me an asset 
+          in any AI-driven or digital marketing environment.
+        </p>
       </section>
     </div>
   );
