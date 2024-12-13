@@ -13,6 +13,11 @@ function Footer() {
         <a href="mailto:S.mayekiso@gmail.com">
           <i className="fas fa-envelope"></i>
         </a>
+
+        {/* LinkedIn Link */}
+        <a href="https://www.linkedin.com/in/siyanda-burnham-mba/" target="_blank" rel="noopener noreferrer">
+          <i className="fab fa-linkedin"></i>
+        </a>
       </div>
     </footer>
   );
