@@ -10,7 +10,7 @@ function Footer() {
         </a>
 
         {/* Email Link */}
-        <a href="mailto:S.mayekiso@gmail.com">
+        <a href="mailto:siyandaburnham@gmail.com">
           <i className="fas fa-envelope"></i>
         </a>
 
