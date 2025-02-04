@@ -10,7 +10,7 @@ function HomePage() {
         <h1>Siyanda Burnham</h1>
         <p className="title">Full-Stack Web Developer & Digital Marketing Professional</p>
         <p>
-          I am full stack web developer with a comprehensive background in developing scalable web applications, 
+          I am a full stack web developer with a comprehensive background in developing scalable web applications, 
           AI-driven solutions, SEO, and digital marketing strategies. Skilled in integrating AI technologies 
           such as natural language processing (NLP) and image generation models to create intelligent, user-friendly applications.
         </p>
