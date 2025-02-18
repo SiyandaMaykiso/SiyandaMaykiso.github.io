@@ -16,7 +16,7 @@ const projects = [
   {
     id: 2,
     title: 'AI-Powered Content Summarizer',
-    description: 'The AI-Powered Content Summarizer is a web application designed to generate absorbable summaries of long-form content using advanced natural language processing (NLP) technology. This project aims to streamline information sharing by reducing large articles into brief, easy-to-digest summaries, turning academic and business articles into short-form content. The frontend is built with React, and the backend is powered by Node.js with a PostgreSQL database hosted on Heroku.',
+    description: 'AI-Powered Content Summarizer: A web app that generates concise summaries from long-form content using NLP. It simplifies information sharing by turning articles into digestible short-form content. Built with React, Node.js, PostgreSQL, and OpenAI GPT API, and hosted on Heroku.',
     image: 'https://github.com/SiyandaMaykiso/AI-Powered-Content-Summarizer/blob/main/screenshots/Summarize_Page_AI_Content_Powered_Summarizer.png?raw=true',
     repo: 'https://github.com/SiyandaMaykiso/AI-Powered-Content-Summarizer.git',
     live: 'https://ai-powered-content-summarizer-71f343ba410f.herokuapp.com/',
