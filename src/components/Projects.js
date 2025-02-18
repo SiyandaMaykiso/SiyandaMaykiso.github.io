@@ -6,7 +6,7 @@ const projects = [
   {
     id: 1,
     title: 'AI-Powered Code Reviwer',
-    description: 'The AI-Powered Code Reviewer is a web application designed to assist developers in reviewing and improving their code using AI-driven analysis. This project aims to streamline code quality assessment by detecting potential bugs, suggesting best practices, and enhancing readability and maintainability. The frontend is built with React, while the backend is powered by Node.js with a PostgreSQL database hosted on Heroku, The application integrates OpenAI by integrating the OpenAI Codex API to provide intelligent feedback on submitted code snippets.',
+    description: 'The AI-Powered Code Reviewer is a web application designed to assist developers in reviewing and improving their code using AI-driven analysis. This project aims to streamline code quality assessment by detecting potential bugs, suggesting best practices, and enhancing readability and maintainability. The frontend is built with React, while the backend is powered by Node.js with a PostgreSQL database hosted on Heroku.',
     image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/AI_Powered_Code_Reviewer_Review_Page.png?raw=true',
     repo: 'https://github.com/SiyandaMaykiso/AI-Powered-Code-Reviewer',
     live: 'https://ai-powered-code-reviewer-c7e564a6a3d0.herokuapp.com/',
