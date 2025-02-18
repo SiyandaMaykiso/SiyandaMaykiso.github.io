@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     title: 'AI-Powered Code Reviwer',
     description: 'The AI-Powered Content Summarizer is a web application designed to generate absorbable summaries of long-form content using advanced natural language processing (NLP) technology. This project aims to streamline information sharing by reducing large articles into brief, easy-to-digest summaries, turning academic and business articles into short-form content. The frontend is built with React, and the backend is powered by Node.js with a PostgreSQL database hosted on Heroku.',
-    image: 'https://github.com/SiyandaMaykiso/AI-Powered-Code-Reviewer/blob/main/screenshots/AI_Powered_Code_Reviewer_Review_Page.png',
+    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/AI_Powered_Code_Reviewer_Review_Page.png?raw=true',
     repo: 'https://github.com/SiyandaMaykiso/AI-Powered-Code-Reviewer',
     live: 'https://ai-powered-code-reviewer-c7e564a6a3d0.herokuapp.com/',
     date: new Date('2024-07-01')
