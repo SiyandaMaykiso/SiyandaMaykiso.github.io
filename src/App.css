@@ -117,8 +117,12 @@ h1, h2 {
 
 .project-item img {
   width: 100%;
-  height: auto;
-  border-radius: 4px; 
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+  background-color: #f0f0f0; /* subtle fallback while image loads */
+  transition: opacity 0.3s ease;
 }
 
 .project-item a {
