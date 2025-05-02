@@ -68,7 +68,7 @@ const projects = [
     id: 7, 
     title: 'What is Cooking Project', 
     description: 'This frontend application that gives you recipes based on the ingredients you have on hand, and helps you find grocery stores nearby.', 
-    image: 'https://github.com/SiyandaMaykiso/What-s-Cooking-Project/blob/main/screenshot.PNG?raw=true', 
+    image: 'https://raw.githubusercontent.com/SiyandaMaykiso/What-s-Cooking-Project/main/screenshot.PNG', 
     repo: 'https://github.com/SiyandaMaykiso/What-s-Cooking-Project.git', 
     live: 'https://siyandamaykiso.github.io/What-s-Cooking-Project/', 
     date: new Date('2024-01-01') 
