@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     title: 'AI-Powered Code Reviwer',
     description: 'AI-Powered Code Reviewer: A web app that helps developers improve code quality using AI-driven analysis. It detects bugs, suggests best practices, and enhances readability. Built with React, Node.js, PostgreSQL, and OpenAI’s Codex API, and hosted on Heroku.',
-    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/AI_Powered_Code_Reviewer_Review_Page.png?raw=true',
+    image: 'https://raw.githubusercontent.com/SiyandaMaykiso/SiyandaMaykiso.github.io/main/Screenshots/AI_Powered_Code_Reviewer_Review_Page.png',
     repo: 'https://github.com/SiyandaMaykiso/AI-Powered-Code-Reviewer',
     live: 'https://ai-powered-code-reviewer-c7e564a6a3d0.herokuapp.com/',
     date: new Date('2024-07-01')
