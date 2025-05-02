@@ -108,7 +108,7 @@ const projects = [
     id: 11, 
     title: 'Movie Guide', 
     description: 'This app will help you find any theatrical movie, the app will also provide you with a movie rating. This app works on most desktop and mobile applications. Built with the Open Movie Database API (The OMDb API is a RESTful web service to obtain movie information), Poppins Font, HTML, CSS & JavaScript', 
-    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/Movie%20Guide%20Screenshot.png?raw=true', 
+    image: 'https://raw.githubusercontent.com/SiyandaMaykiso/SiyandaMaykiso.github.io/main/Screenshots/Movie%20Guide%20Screenshot.png', 
     repo: 'https://github.com/SiyandaMaykiso/Movie-Guide.git', 
     live: 'https://siyandamaykiso.github.io/Movie-Guide/', 
     date: new Date('2023-09-01') 
