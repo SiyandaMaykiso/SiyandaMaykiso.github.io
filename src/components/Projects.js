@@ -88,7 +88,7 @@ const projects = [
     id: 9, 
     title: 'Workday Scheduler', 
     description: 'This is a frontend workday calendar application that allows the user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML, CSS, jQuery and Moment.js.', 
-    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/Workday%20Scheduler%20Screenshot.png?raw=true', 
+    image: 'https://raw.githubusercontent.com/SiyandaMaykiso/SiyandaMaykiso.github.io/main/Screenshots/Workday%20Scheduler%20Screenshot.png', 
     repo: 'https://github.com/SiyandaMaykiso/Day-Planner.git', 
     live: 'https://siyandamaykiso.github.io/Day-Planner/', 
     date: new Date('2023-11-01') 
