@@ -98,7 +98,7 @@ const projects = [
     id: 10, 
     title: 'Password Generator', 
     description: 'This frontend password generator contains, HTML, Javascript code and CSS styling. This app will run sucessfully on different browsers and store secure information. It contains a clear and polished user interface that is responsive.', 
-    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/Password%20Generator%20Screenshot.png?raw=true', 
+    image: 'https://raw.githubusercontent.com/SiyandaMaykiso/SiyandaMaykiso.github.io/main/Screenshots/Password%20Generator%20Screenshot.png', 
     repo: 'https://github.com/SiyandaMaykiso/Password-Generator.git', 
     live: 'https://siyandamaykiso.github.io/Password-Generator/', 
     date: new Date('2023-10-01') 
