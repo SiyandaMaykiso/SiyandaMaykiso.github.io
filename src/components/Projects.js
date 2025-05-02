@@ -78,7 +78,7 @@ const projects = [
     id: 8, 
     title: 'JavaScript WeatherApp', 
     description: 'This is a frontend practical weather app made with JavaScript that tells you the weather in your current location. Made with HTML, CSS, and JavaSript. This application uses the OpenWeather API.', 
-    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/Screenshot%20Current%20Weather%20App.png?raw=true', 
+    image: 'https://raw.githubusercontent.com/SiyandaMaykiso/SiyandaMaykiso.github.io/main/Screenshots/Screenshot%20Current%20Weather%20App.png', 
     repo: 'https://github.com/SiyandaMaykiso/JavaScript-Weather-App.git', 
     live: 'https://siyandamaykiso.github.io/JavaScript-Weather-App/', 
     date: new Date('2023-12-01') 
