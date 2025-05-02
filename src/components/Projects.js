@@ -27,7 +27,7 @@ const projects = [
     id: 3,
     title: 'AI-Powered Chatbot',
     description: 'The AI-Powered Chatbot is an intelligent web application that simulates human-like conversations using advanced NLP (Natural Language Processing). Built using React, Node.js, and PostgreSQL, it integrates OpenAI’s GPT API to provide real-time responses and manage user interactions, with features like authentication and persistent chat history.',
-    image: 'https://github.com/SiyandaMaykiso/AI-Powered-Chatbot/blob/main/screenshots/Chat_Window_Screenshot.png?raw=true',
+    image: 'https://raw.githubusercontent.com/SiyandaMaykiso/SiyandaMaykiso.github.io/main/Screenshots/Chat_Window_Screenshot.png',
     repo: 'https://github.com/SiyandaMaykiso/AI-Powered-Chatbot.git',
     live: 'https://ai-powered-chatbot-c163b8863896.herokuapp.com/',
     date: new Date('2024-05-01')
