@@ -37,7 +37,7 @@ const projects = [
     id: 4,
     title: 'Recipe Sharing Platform',
     description: 'The Recipe Sharing Platform is a full-stack web application that allows users to share their favorite recipes, complete with ingredients, cooking instructions, and images. Built using React, Node.js, and PostgreSQL.',
-    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/Recipe-Sharing-Platform-RecipeListing%20Page.png?raw=true',
+    image: 'https://raw.githubusercontent.com/SiyandaMaykiso/SiyandaMaykiso.github.io/main/Screenshots/Recipe-Sharing-Platform-RecipeListing%20Page.png',
     repo: 'https://github.com/SiyandaMaykiso/Recipe-Sharing-Platform.git', 
     live: 'https://recipe-sharing-platform-sm-8996552549c5.herokuapp.com/',
     date: new Date('2024-04-01')
