@@ -48,7 +48,7 @@ const projects = [
     id: 5, 
     title: 'To-Do List Application',
     description: 'This To-Do List application is a user-friendly full-stack platform that allows users to manage their daily tasks efficiently. Users can easily add tasks to their personal list, mark tasks as completed, and delete them as needed. Built using React, Node.js and PostgreSQL.',
-    image: 'https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/To-Do%20List%20Application%20Dashboard.png?raw=true', 
+    image: 'https://raw.githubusercontent.com/SiyandaMaykiso/SiyandaMaykiso.github.io/main/Screenshots/To-Do%20List%20Application%20Dashboard.png', 
     repo: 'https://github.com/SiyandaMaykiso/To-Do-List-Application.git', 
     live: 'https://to-do-list-application-sm-79db330bd202.herokuapp.com/', 
     date: new Date('2024-03-01') 
