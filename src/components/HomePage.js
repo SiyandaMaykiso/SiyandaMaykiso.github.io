@@ -4,7 +4,7 @@ function HomePage() {
   return (
     <div className="home-page">
       <section className="intro-section">
-        <img src="https://github.com/SiyandaMaykiso/SiyandaMaykiso.github.io/blob/main/Screenshots/HeadshotsSiyanda-9.jpg?raw=true" 
+        <img src="https://raw.githubusercontent.com/SiyandaMaykiso/SiyandaMaykiso.github.io/main/Screenshots/HeadshotsSiyanda-9.jpg" 
              alt="Siyanda Burnham" 
              className="profile-photo"/>
         <h1>Siyanda Burnham</h1>
